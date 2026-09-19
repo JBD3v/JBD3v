@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on updating my skills as a software engineer
+- 🌱 I’m currently learning all about GitHub solutions
+- 😄 Pronouns: Him/His
+- ⚡ Fun fact: I live in the countryside in central Portugal
+
 <!--
 **JBD3v/JBD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
